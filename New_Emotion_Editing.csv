@@ -1,0 +1,23 @@
+Consent_Initial_Consent_Confirmation,Consent_1_Voluntary_Participation_Acknowledgement,Consent_2_Data_Access_Permission,Consent_3_Future_Research_Consent,Consent_4_Study_Participation_Agreement,Demographics_Department_Selected,Demographics_2_Years_At_Company_Selected,Demographics_4_Current_Role,Demographics_5_Primary_Work_Arrangement,Self-Regulations ,Self-Regulations .1,Self-Regulations .2,Self-Regulations .3,Self-Regulations .4,Empathy   ,Empathy   .1,Empathy   .2,Empathy   .3,Empathy   .4,Social Skills  ,Social Skills  .1,Social Skills  .2,Social Skills  .3,Social Skills  .4,Adaptability  ,Adaptability  .1,Adaptability  .2,Adaptability  .3,Adaptability  .4,Productivity  ,Productivity  .1,Productivity  .2,Productivity  .3,Productivity  .4,Workplace Morale  ,Workplace Morale  .1,Workplace Morale  .2,Workplace Morale  .3,Workplace Morale  .4,Collaboration  ,Collaboration  .1,Collaboration  .2,Collaboration  .3,Collaboration  .4,Perception of EI  ,Perception of EI  .1,Perception of EI  .2,Perception of EI  .3,Perception of EI  .4,Training Needs  ,Training Needs  .1,Training Needs  .2,Training Needs  .3,Training Needs  .4
+YES,YES,YES,YES,I agree,T&E,1-5 years,AV specialist,Other,6,5,6,7,5,7,7,5,7,6,7,6,7,6,6,5,7,7,5,7,6,4,7,6,7,7,7,7,7,7,6,6,6,7,6,7,6,6,7,7,3,6,2,7,7
+YES,YES,YES,YES,I agree,Sales,5-10 years,Sales representative,Remote,6,7,6,5,6,6,6,6,6,6,6,6,6,7,7,6,7,7,7,6,7,6,6,7,6,6,7,5,5,7,7,7,7,7,6,7,6,6,7,6,7,7,7,7,7
+YES,YES,YES,YES,I agree,Marketing,5-10 years,Marketing Specialist,Remote,6,4,6,4,7,7,7,7,7,7,7,7,7,7,7,6,6,7,7,7,6,5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,6,7,5,7,7,7,7,7
+YES,YES,YES,YES,I agree,Marketing,More than 10 years,Market development,Hybrid,5,6,7,4,5,6,7,7,7,7,5,6,7,7,7,5,6,6,7,7,4,4,6,5,6,6,6,7,5,7,7,7,7,7,6,7,7,7,7,6,7,7,7,7,7
+YES,YES,YES,YES,I agree,Finance,More than 10 years,Principal financial analyst,Remote,6,5,4,3,5,5,4,5,7,4,6,4,5,6,5,3,5,4,6,5,5,3,4,4,4,5,5,6,6,6,6,5,5,5,5,5,4,4,4,5,4,4,4,4,5
+YES,YES,YES,YES,I agree,Marketing,1-5 years,Individual Contributor,Remote,6,6,7,6,5,5,5,6,5,7,5,5,5,7,6,7,7,6,7,6,7,5,7,7,7,4,4,5,6,7,7,7,7,7,6,7,7,7,7,6,3,7,7,7,7
+YES,YES,YES,YES,I agree,Finance,1-5 years,Sr Financial Analyst,Remote,5,5,6,4,6,7,6,7,6,6,7,6,6,6,6,5,5,5,5,6,7,6,6,7,6,6,5,6,6,7,7,6,6,6,6,7,6,6,5,5,5,4,6,7,7
+YES,YES,YES,YES,I agree,Operations,5-10 years,EO ,Remote,6,6,6,6,6,6,7,7,7,6,6,6,7,7,7,6,6,6,7,7,5,6,5,7,6,5,6,6,6,5,6,7,7,7,6,7,7,6,7,6,6,6,7,7,6
+YES,YES,YES,YES,I agree,Marketing,1-5 years,Market Development Specialist ,Remote,7,5,7,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+YES,YES,YES,YES,I agree,Marketing,More than 10 years,Senior Market Development Manager,Remote,6,7,7,7,7,7,7,7,7,7,6,7,7,6,6,6,7,7,7,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,6,6,7,6,7,6
+YES,YES,YES,YES,I agree,T&E,1-5 years,Associate Technical Event Specialist,Hybrid,6,5,5,4,5,5,6,5,6,7,6,6,6,5,5,6,6,6,7,5,6,5,5,4,5,5,5,5,6,6,7,5,6,4,7,7,6,6,7,5,7,7,7,7,7
+YES,YES,YES,YES,I agree,Marketing,5-10 years,Marketing ,Hybrid,4,5,5,6,7,7,7,7,7,7,5,7,7,7,7,6,7,6,7,5,7,6,5,7,7,4,5,5,6,6,7,7,7,4,6,7,7,7,7,7,7,7,7,7,7
+YES,YES,YES,YES,I agree,Marketing,1-5 years,Marketing Specialist,Hybrid,6,6,7,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+YES,YES,YES,YES,I agree,T&E,More than 10 years,Consultant,Remote,6,6,6,6,7,7,7,7,6,7,7,6,7,7,7,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,7,7,7
+YES,YES,YES,YES,I agree,Marketing,Less than 1 year,Growth marketing,Remote,5,5,5,4,5,1,1,2,1,2,2,2,1,1,1,2,2,3,2,2,2,3,4,4,2,4,4,4,3,2,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1
+YES,YES,YES,NO,I agree,Operations,5-10 years,Contract Analyst,Remote,5,6,7,7,7,7,7,6,6,6,6,6,7,7,7,7,6,6,6,7,6,7,7,7,6,6,7,6,5,6,7,6,6,7,7,7,6,6,7,7,7,7,7,6,6
+YES,YES,YES,YES,I agree,Marketing,1-5 years,Administrative Assistant,Remote,7,6,6,6,7,6,6,6,5,5,7,5,7,7,7,7,7,6,7,7,6,6,7,7,6,7,6,7,7,7,6,5,7,7,7,7,6,6,6,6,7,7,6,7,7
+YES,YES,YES,YES,I agree,Finance,5-10 years,Finance Partner,Remote,6,6,5,5,3,5,5,6,4,6,6,6,7,6,5,5,6,7,6,7,7,6,7,5,6,7,6,6,6,7,7,6,6,6,6,6,6,6,7,5,6,6,6,6,6
+YES,YES,YES,YES,I agree,Marketing,5-10 years,Digital Marketing Lead ENT,Remote,6,5,4,3,5,6,6,5,7,7,6,6,7,6,7,5,5,5,7,7,4,3,4,5,6,5,6,4,5,5,7,4,6,7,7,7,7,7,7,6,7,5,7,7,7
+YES,YES,YES,YES,I agree,Sales,5-10 years,TC Representative & T&E,Remote,6,6,5,6,7,7,7,7,7,7,6,6,7,7,7,6,5,5,7,7,6,7,7,7,7,2,4,5,4,6,7,7,6,7,7,7,5,5,7,6,7,7,7,7,7
+YES,YES,YES,YES,I agree,Marketing,More than 10 years,Product Manager ,Hybrid,4,4,5,6,3,6,5,6,5,7,4,4,6,5,4,7,6,6,7,7,7,7,7,5,6,5,7,5,4,7,7,6,7,7,7,7,5,7,4,4,5,4,4,5,5
+YES,YES,YES,YES,I agree,Marketing,5-10 years,Product Manager,Hybrid,5,6,6,4,7,7,7,7,7,7,7,4,4,4,7,3,6,7,7,7,3,2,7,3,7,4,7,3,7,4,7,4,7,4,7,7,7,7,7,4,7,7,7,7,7
